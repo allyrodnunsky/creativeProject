@@ -1,5 +1,6 @@
 {
   "name": "project1",
+  "homepage": "https://creative.colorado.edu/~alro7957/creativeDev/creativeProject/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
